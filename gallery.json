@@ -1,6 +1,20 @@
 {
   "gallery": [
     {
+      "title": "Solasta'25",
+      "images": [
+                  "https://github.com/stacsnssce/webassets/blob/master/gallery/solasta25-1.JPG?raw=true",
+                  "https://github.com/stacsnssce/webassets/blob/master/gallery/solasta25-2.JPG?raw=true",
+                  "https://github.com/stacsnssce/webassets/blob/master/gallery/solasta25-3.JPG?raw=true",
+                  "https://github.com/stacsnssce/webassets/blob/master/gallery/solasta25-4.JPG?raw=true",
+                  "https://github.com/stacsnssce/webassets/blob/master/gallery/solasta25-5.JPG?raw=true",
+                  "https://github.com/stacsnssce/webassets/blob/master/gallery/solasta25-6.JPG?raw=true",
+                  "https://github.com/stacsnssce/webassets/blob/master/gallery/solasta25-7.jpg?raw=true",
+                  "https://github.com/stacsnssce/webassets/blob/master/gallery/solasta25-8.HEIC?raw=true",
+                  "https://github.com/stacsnssce/webassets/blob/master/gallery/solasta25-9.HEIC?raw=true"
+                ]
+    },
+    {
       "title": "Inauguration",
       "images": [
                   "https://github.com/stacsnssce/webassets/blob/master/gallery/in1.jpg?raw=true",
